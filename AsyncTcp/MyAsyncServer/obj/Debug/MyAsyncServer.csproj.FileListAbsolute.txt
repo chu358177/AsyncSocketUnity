@@ -1,0 +1,10 @@
+D:\AsyncTcp\MyAsyncServer\obj\Debug\MyAsyncServer.csprojAssemblyReference.cache
+D:\AsyncTcp\MyAsyncServer\obj\Debug\MyAsyncServer.csproj.CoreCompileInputs.cache
+D:\AsyncTcp\MyAsyncServer\bin\Debug\MyAsyncServer.exe.config
+D:\AsyncTcp\MyAsyncServer\bin\Debug\MyAsyncServer.exe
+D:\AsyncTcp\MyAsyncServer\bin\Debug\MyAsyncServer.pdb
+D:\AsyncTcp\MyAsyncServer\bin\Debug\AsyncTcp.dll
+D:\AsyncTcp\MyAsyncServer\bin\Debug\AsyncTcp.pdb
+D:\AsyncTcp\MyAsyncServer\obj\Debug\MyAsyncServer.csproj.CopyComplete
+D:\AsyncTcp\MyAsyncServer\obj\Debug\MyAsyncServer.exe
+D:\AsyncTcp\MyAsyncServer\obj\Debug\MyAsyncServer.pdb

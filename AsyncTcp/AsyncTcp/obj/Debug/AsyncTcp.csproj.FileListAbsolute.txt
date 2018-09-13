@@ -1,0 +1,15 @@
+D:\Projects\AsyncTcp\AsyncTcp\bin\Debug\AsyncTcp.dll
+D:\Projects\AsyncTcp\AsyncTcp\bin\Debug\AsyncTcp.pdb
+D:\Projects\AsyncTcp\AsyncTcp\obj\Debug\AsyncTcp.dll
+D:\Projects\AsyncTcp\AsyncTcp\obj\Debug\AsyncTcp.pdb
+C:\Users\Administrator\Desktop\AsyncTcp\AsyncTcp\bin\Debug\AsyncTcp.dll
+C:\Users\Administrator\Desktop\AsyncTcp\AsyncTcp\bin\Debug\AsyncTcp.pdb
+C:\Users\Administrator\Desktop\AsyncTcp\AsyncTcp\obj\Debug\AsyncTcp.dll
+C:\Users\Administrator\Desktop\AsyncTcp\AsyncTcp\obj\Debug\AsyncTcp.pdb
+C:\Users\Administrator\Desktop\AsyncTcp\AsyncTcp\obj\Debug\AsyncTcp.csprojResolveAssemblyReference.cache
+D:\AsyncTcp\AsyncTcp\bin\Debug\AsyncTcp.dll
+D:\AsyncTcp\AsyncTcp\bin\Debug\AsyncTcp.pdb
+D:\AsyncTcp\AsyncTcp\obj\Debug\AsyncTcp.csprojAssemblyReference.cache
+D:\AsyncTcp\AsyncTcp\obj\Debug\AsyncTcp.csproj.CoreCompileInputs.cache
+D:\AsyncTcp\AsyncTcp\obj\Debug\AsyncTcp.dll
+D:\AsyncTcp\AsyncTcp\obj\Debug\AsyncTcp.pdb
