@@ -1,4 +1,5 @@
 ﻿using AsyncTcp;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Globalization;
@@ -38,6 +39,17 @@ namespace MyAsyncServer
                 "TCP client {0} has connected.",
                 e.TcpClient.Client.RemoteEndPoint.ToString()));
             PlayerList.Add(e.TcpClient.Client.RemoteEndPoint);
+
+            NotifyNewPlayerEnter(e);
+        }
+
+        void NotifyNewPlayerEnter(TcpClientConnectedEventArgs e)
+        {
+            PlayerProfile playerProfile = new PlayerProfile();
+            playerProfile.endPoint = e.TcpClient.Client.RemoteEndPoint.ToString();
+            string json1 = JsonConvert.SerializeObject(playerProfile);
+            Console.WriteLine(json1);
+            server.SendAll("NewPlayer|");
         }
 
         void server_ClientDisconnected(object sender, TcpClientDisconnectedEventArgs e)
